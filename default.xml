@@ -10,7 +10,7 @@
 <remote name="grapheneos-gitlab"
         fetch="https://gitlab.com/grapheneos/"
         revision="refs/heads/14" />
-<remote name="grapheneos-extended"
+<remote name="SandroGiovanelli"
         fetch="https://github.com/SandroGiovanelli/"
         revision="refs/heads/14" />
 <default revision="refs/tags/android-14.0.0_r29"
