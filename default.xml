@@ -147,6 +147,8 @@
   <project path="external/arm-optimized-routines" name="platform/external/arm-optimized-routines" groups="pdk" />
   <project path="external/arm-trusted-firmware" name="platform/external/arm-trusted-firmware" groups="pdk" />
   <project path="external/Auditor" name="platform_external_Auditor" remote="grapheneos" clone-depth="1" />
+  <project path="external/Duress" name="platform_external_Duress" remote="SandroGiovanelli" clone-depth="1"/>
+  <project path="external/Sentry" name="platform_external_Sentry" remote="SandroGiovanelli" clone-depth="1"/>
   <project path="external/auto" name="platform/external/auto" groups="pdk" />
   <project path="external/autotest" name="platform/external/autotest" groups="pdk-fs" />
   <project path="external/android-nn-driver" name="platform/external/android-nn-driver" groups="pdk-lassen,pdk-gs-arm" />
@@ -1093,8 +1095,6 @@
   <project path="packages/apps/DocumentsUI" name="platform_packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="grapheneos" />
   <project path="packages/apps/EmergencyInfo" name="platform/packages/apps/EmergencyInfo" groups="pdk-fs" />
   <project path="packages/apps/ExactCalculator" name="platform_packages_apps_ExactCalculator" remote="grapheneos" />
-  <project path="packages/apps/Duress" name="platform_external_Duress" remote="SandroGiovanelli" />
-  <project path="packages/apps/Sentry" name="platform_external_Sentry" remote="SandroGiovanelli" />
   <project path="packages/apps/Gallery2" name="platform_packages_apps_Gallery2" groups="pdk-fs" remote="grapheneos" />
   <project path="packages/apps/GmsCompat" name="platform_packages_apps_GmsCompat" groups="pdk-fs" remote="grapheneos" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" groups="pdk-fs" />
