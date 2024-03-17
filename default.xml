@@ -12,6 +12,9 @@
         revision="refs/heads/14" />
 <remote name="SandroGiovanelli"
         fetch="https://github.com/SandroGiovanelli/"
+        revision="refs/heads/14" />
+ remote name="SandroGiovanelli"
+        fetch="https://github.com/SandroGiovanelli/"
         revision="refs/heads/main" />
 <default revision="refs/tags/android-14.0.0_r29"
          remote="aosp"
